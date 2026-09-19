@@ -1,2 +1,3 @@
-# mit-cpp-work
-C++ programming assignments and lab work from my college.
+# C++ Coursework
+
+C++ programs and lab assignments completed as part of my B.Tech CSE coursework at MIT-ADT.
