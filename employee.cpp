@@ -14,7 +14,7 @@ class Employee {
 	public:
 	Employee(){
 		empid = 123;
-		name = "anuj";
+		name = "Vaishnav";
 		basicSalary = 1000;
 		bonus = 500;
 		calculateSalary();
@@ -47,7 +47,7 @@ int main(){
   e1.display();
   
   cout<<"--------------------------------"<<endl;
-  Employee e2(01010, "Anuj", 10083, 3499);
+  Employee e2(01010, "Vaishnav", 10083, 3499);
   e2.display();
   
   return 0;
